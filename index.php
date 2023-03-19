@@ -11,11 +11,12 @@
 
         <form action="img.php" method="post" enctype="multipart/form-data">
 
+            <input type="file" name="upload_img" id=""> <br>
+            <input type="submit" name="submit">
 
 
 
 
-        
         </form>
     
 </body>
