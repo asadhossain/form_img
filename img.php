@@ -7,8 +7,7 @@
 
     }
 
-<img src="" alt="">
-
+dasdsas
 
 ?>
 
