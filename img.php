@@ -7,7 +7,6 @@
 
     }
 
-dasdsas
 
 ?>
 
@@ -23,7 +22,7 @@ dasdsas
 <body>
     
 
-<img src="upload/<?php if(isset($img_name)) {echo $img_name;} ?>" alt="">
+<img src="non/<?php if(isset($img_name)) {echo $img_name;} ?>" alt="">
 
 
 
